@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:       _ANDYP - Remove Admin Comments Menu option
  * Plugin URI:        http://londonparkour.com
- * Description:       Removes the left menu option for comments.
+ * Description:       <strong>💪ACTION</strong> | Removes the left sidemenu option for comments.
  * Version:           1.0.0
  * Author:            Andy Pearson
  * Author URI:        https://londonparkour.com
