@@ -15,6 +15,11 @@
  * Domain Path:       /languages
  */
 
+//  ┌─────────────────────────────────────────────────────────────────────────┐
+//  │                    Register with ANDYP Plugins                          │
+//  └─────────────────────────────────────────────────────────────────────────┘
+require __DIR__.'/src/acf/andyp_plugin_register.php';
+
 function remove_menus() {
 	remove_menu_page( 'edit-comments.php' );          //Comments
 }
