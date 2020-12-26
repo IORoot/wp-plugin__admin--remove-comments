@@ -1,12 +1,8 @@
 <?php
 
 /*
- * @package   ANDYP - Remove Admin Comments section
- * @author    Andy Pearson <andy@londonparkour.com>
- * @copyright 2020 LondonParkour
- * 
  * @wordpress-plugin
- * Plugin Name:       _ANDYP - Remove Admin Comments Menu option
+ * Plugin Name:       _ANDYP - Admin - Remove Comments Menu option
  * Plugin URI:        http://londonparkour.com
  * Description:       <strong>💪ACTION</strong> | Removes the left sidemenu option for comments.
  * Version:           1.0.0
