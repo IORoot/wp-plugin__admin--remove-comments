@@ -16,7 +16,7 @@
 //  └─────────────────────────────────────────────────────────────────────────┘
 require __DIR__.'/src/acf/andyp_plugin_register.php';
 
-function remove_menus() {
+function remove_admin_menus() {
 	remove_menu_page( 'edit-comments.php' );          //Comments
 }
-add_action( 'admin_menu', 'remove_menus' );
+add_action( 'admin_menu', 'remove_admin_menus' );
